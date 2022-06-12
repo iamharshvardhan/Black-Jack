@@ -1,0 +1,4 @@
+## BlackJack Card Game
+
+# Description
+Blackjack is a casino banking game. The most widely played casino banking game in the world, it uses decks of 52 cards and descends from a global family of casino banking games known as Twenty-One. This family of card games also includes the British game of Pontoon and the European game, Vingt-et-Un.
